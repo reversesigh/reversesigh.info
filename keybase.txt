@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/reversesigh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://reversesigh.info
+  * I am reversesigh (https://keybase.io/reversesigh) on keybase.
+  * I have a public key ASANbFw25Tu2Yl2jLlcW3-VrQNB-kMJaKp-Mcr6HemiNNwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200d6c5c36e53bb6625da32e5716dfe56b40d07e90c25a2a9f8c72be877a688d370a",
+      "host": "keybase.io",
+      "kid": "01200d6c5c36e53bb6625da32e5716dfe56b40d07e90c25a2a9f8c72be877a688d370a",
+      "uid": "87a0f8ebb35f4bdac22b21fc41e08e19",
+      "username": "reversesigh"
+    },
+    "merkle_root": {
+      "ctime": 1647844905,
+      "hash": "e822af6788773d8f7d2d3a2742cfbb26c9831b6056f598f9a8025e67c4f8e97c4e83a2664c1f8855b9dd2d57aae3da817818ec74d394a7874d559c8acb481e07",
+      "hash_meta": "0c2c4b268cf12728fc5e122d314965e7ac0fc762152d75195242f0f8adc5330b",
+      "seqno": 22127554
+    },
+    "service": {
+      "entropy": "aMcNsbqxwol2J0oGFPIUqbHA",
+      "hostname": "reversesigh.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.3"
+  },
+  "ctime": 1647844946,
+  "expire_in": 504576000,
+  "prev": "3db5c6e5fbe5af1e356193e7f1b0c7048d12d1a2b20ce274f9e588dcca9365fd",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDWxcNuU7tmJdoy5XFt/la0DQfpDCWiqfjHK+h3pojTcKp3BheWxvYWTESpcCCsQgPbXG5fvlrx41YZPn8bDHBI0S0aKyDOJ0+eWI3MqTZf3EIOjkhDSSKHfcVAclKLWPJ/847o2HKCSLgXunYC1EFI5qAgHCo3NpZ8RApGxdvzOZCpCWu5ExRaszg04YMzYTSgrGlG0N2L3DK5pbsmbkgD/LhPvA2rLO6zcmdA4MdqirrHuJWg5EfRaTD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG3KQcu2Hba6OfZQCJ4QHULSAJtP6pBXF6lB8GqqN+q0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reversesigh
+
+==================================================================

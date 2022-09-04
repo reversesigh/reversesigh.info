@@ -1,0 +1,13 @@
+  body {
+    background-color: #243447;
+    color: white;
+    text-align: center;}
+  
+  body {  
+    font-family: 'Public Sans';font-size: 22px;}
+
+  a:link { color: maroon;}
+  a:visited { color: maroon;}  
+  a:hover { color: hotpink; }
+  a:active { text-decoration: none; }
+  a:link { text-decoration: none; }
